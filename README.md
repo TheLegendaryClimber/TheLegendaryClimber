@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/TheLegendaryClimber"><img src="https://api.daily.dev/devcards/48fec81fdafc46f3a9d4b53c895888c0.png?r=qhj" width="400" alt="Georgi's Dev Card"/></a>
